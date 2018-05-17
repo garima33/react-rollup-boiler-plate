@@ -1,0 +1,41 @@
+{
+  "name": "react-rollup-boiler-plate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garima33/react-rollup-boiler-plate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garima33/react-rollup-boiler-plate/issues"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-plugin-external-helpers": "^6.18.0",
+    "babel-plugin-syntax-decorators": "^6.13.0",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-preset-es2015-rollup": "^3.0.0",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2",
+    "rollup-plugin-babel": "^2.7.1",
+    "rollup-plugin-commonjs": "^5.0.5",
+    "rollup-plugin-generate-html-template": "^1.1.0",
+    "rollup-plugin-livereload": "^0.6.0",
+    "rollup-plugin-node-resolve": "^2.0.0",
+    "rollup-plugin-postcss": "^1.6.1",
+    "rollup-plugin-replace": "^1.1.1",
+    "rollup-plugin-scss": "^0.4.0",
+    "rollup-plugin-serve": "^0.4.2",
+    "rollup-plugin-uglify": "^1.0.1"
+  },
+  "homepage": "https://github.com/garima33/react-rollup-boiler-plate#readme"
+}

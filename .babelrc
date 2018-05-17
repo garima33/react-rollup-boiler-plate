@@ -1,0 +1,4 @@
+{
+    "presets": [ "es2015-rollup", "react" ],
+    "plugins": [ "external-helpers", "transform-decorators-legacy" ]
+}
