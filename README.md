@@ -11,7 +11,7 @@ Node.js - Download & Install Node.js and the npm package manager.
 
 Clone this repository to wherever you like to keep your development code then run the following commands;
 
-* cd webpack-react-boiler-plate
+* cd react-rollup-boiler-plate
 * npm install
 * npm start
 
